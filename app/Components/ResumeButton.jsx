@@ -18,7 +18,7 @@ const ResumeButton = () => {
         className="flex mx-auto gap-3 px-6 py-3 my-5 bg-gradient-to-br from-purple-600 via-fuchsia-600 to-indigo-600 text-white font-semibold rounded-full shadow-xl hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 backdrop-blur-md border border-purple-500"
       >
         <FiDownload className="text-xl" />
-        Download Resumevercel login
+        Download Resume
 
       </a>
     </motion.div>
